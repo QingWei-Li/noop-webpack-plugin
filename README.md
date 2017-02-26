@@ -21,7 +21,7 @@ module.exports = {
     filename: '[name].js'
   },
   plugins: [
-    isProd ? new uglifyJS() : noop()
+    isProd ? new webpack.optimize.UglifyJsPlugin() : noop()
   ]
 }
 ```
