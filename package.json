@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/QingWei-Li/lookpkg.git"
+    "url": "git+https://github.com/QingWei-Li/noop-webpack-plugin.git"
   },
   "author": "qingwei-li <cinwell.li@gmail.com> (https://github.com/QingWei-Li)",
   "license": "MIT"
