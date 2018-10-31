@@ -1,3 +1,6 @@
+
+**BEST PRACTICES 👉 https://github.com/webpack/webpack/issues/5493#issuecomment-321705298**
+
 # noop-webpack-plugin
 [![npm](https://img.shields.io/npm/v/noop-webpack-plugin.svg)](https://www.npmjs.com/package/noop-webpack-plugin)
 
